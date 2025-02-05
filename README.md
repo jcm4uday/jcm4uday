@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jcm4uday
 - 👀 I’m interested in embedded systems, cybersecurity, cars, and electronics
-- 🌱 I’m currently learning how computer work. From OS to applications. Learning how lower level device drivers work.
+- 🌱 I’m currently learning how computer works. From OS to applications. Learning how lower level device drivers work.
 - 💞️ I’m looking to collaborate on LinkedIn
 - 📫 How to reach me www.linkedin.com/in/uday-chinnathambi-7310a224
 - 😄 Pronouns: he/him
